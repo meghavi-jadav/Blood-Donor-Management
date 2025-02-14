@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Blood Donor Management
+Using React and Json Server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## JSON SERVER OUTPUT 
+![image](https://github.com/user-attachments/assets/0f5ab74a-5f31-4db6-b153-8332a29792c6)
 
-## Available Scripts
+## How our page looks
+![image](https://github.com/user-attachments/assets/6f8680c2-7023-407e-a501-91929efd5d80)
 
-In the project directory, you can run:
+## Adding a new donor
+http://localhost:3000/create
+![image](https://github.com/user-attachments/assets/9a47ac22-7131-41fc-b475-775a666c9c9b)
+![image](https://github.com/user-attachments/assets/36822a4a-4a24-478d-903a-14f6ba56b94d)
 
-### `npm start`
+## New Donor is being displayed 
+![image](https://github.com/user-attachments/assets/2d3d53c0-bc23-4321-897b-a225b0e47e61)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Also updated in JSON 
+![image](https://github.com/user-attachments/assets/bd94a3f2-09a3-41db-877a-758fb14bddb0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Edit donor Page 
 
-### `npm test`
+http://localhost:3000/edit/10
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Editing the donor using its ID 
+Needs improvement of showing previously entered details
+Not updating new details properly
+![image](https://github.com/user-attachments/assets/ed7cbd14-6afb-4d2d-b9f5-f9292c8537d3)
 
-### `npm run build`
+## Deleting data 
+![image](https://github.com/user-attachments/assets/120cac6d-1458-4493-85ea-bff7a9826565)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
